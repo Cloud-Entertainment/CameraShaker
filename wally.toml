@@ -1,0 +1,12 @@
+[package]
+name = "cloud-entertainment/camerashaker"
+description = "Camera shaker module, ported from Unity"
+version = "1.0.2"
+registry = "https://github.com/Cloud-Entertainment/wally-index"
+realm = "shared"
+exclude = ["wally.exe"]
+
+[dependencies]
+
+[dev-dependencies]
+TestEZ = "roblox/testez@0.4.1"
