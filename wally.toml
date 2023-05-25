@@ -1,7 +1,7 @@
 [package]
 name = "cloud-entertainment/camerashaker"
 description = "Camera shaker module, ported from Unity"
-version = "1.0.2"
+version = "1.0.3"
 registry = "https://github.com/Cloud-Entertainment/wally-index"
 realm = "shared"
 exclude = ["wally.exe"]
